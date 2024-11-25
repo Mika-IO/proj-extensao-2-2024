@@ -1,243 +1,59 @@
 # proj-extensao-2-2024
-Projeto de extensao segundo semestre 2024
 
+Projeto de extensão segundo semestre 2024
 
+# Lista de Exercícios: Introdução à Matemática Financeira
 
-# Introdução à Matemática Financeira
-
-Conceitos fundamentais e aplicações no dia a dia.
-
----
-
-## O que é Matemática Financeira?
-
-- Estuda como o dinheiro evolui ao longo do tempo.
-- Analisa conceitos como juros, amortizações, investimentos e financiamentos.
+## Exercício 1: Juros Simples
+Você investiu R$ 2.000 a uma taxa de juros simples de 6% ao ano durante 4 anos.  
+**Pergunta:** Qual será o valor dos juros acumulados e o montante total ao final do período?  
 
 ---
 
-## Importância da Matemática Financeira
-
-- Essencial para decisões financeiras conscientes.
-- Auxilia no planejamento financeiro pessoal e em negócios.
-
----
-
-## Juros Simples - Conceito
-
-- Juros calculados apenas sobre o capital inicial durante todo o período.
+## Exercício 2: Juros Compostos
+Um investimento inicial de R$ 1.500 é aplicado a uma taxa de juros compostos de 8% ao ano por 3 anos.  
+**Pergunta:** Qual será o montante ao final do período?  
 
 ---
 
-## Fórmula do Juros Simples
-
-- **J = C × i × t**
-  - J: Juros
-  - C: Capital inicial
-  - i: Taxa de juros
-  - t: Tempo
+## Exercício 3: Diferença entre Juros Simples e Compostos
+Você aplica R$ 1.000 a uma taxa de 5% ao ano por 5 anos. Compare os montantes finais usando juros simples e compostos.  
 
 ---
 
-## Exemplo de Juros Simples
-
-- Investimento de R$1.000 a uma taxa de 5% ao ano por 3 anos:
-  - **J = 1000 × 0,05 × 3 = R$150**
-
----
-
-## Aplicações do Juros Simples
-
-- Usado em:
-  - Empréstimos de curto prazo.
-  - Parcelamentos simples.
+## Exercício 4: Valor Presente
+Você precisa receber R$ 10.000 daqui a 3 anos. A taxa de juros é de 7% ao ano.  
+**Pergunta:** Quanto isso vale hoje?  
 
 ---
 
-## Juros Compostos - Conceito
-
-- Juros acumulados, com base de cálculo crescente a cada período.
-
----
-
-## Fórmula do Juros Compostos
-
-- **M = C × (1 + i)^t**
-  - M: Montante
-  - C: Capital inicial
-  - i: Taxa de juros
-  - t: Tempo
+## Exercício 5: Valor Futuro
+Um investimento inicial de R$ 5.000 será aplicado a uma taxa de juros de 4% ao ano por 6 anos.  
+**Pergunta:** Qual será o valor futuro?  
 
 ---
 
-## Exemplo de Juros Compostos
-
-- Investimento de R$1.000 a uma taxa de 5% ao ano por 3 anos:
-  - **M = 1000 × (1 + 0,05)^3 ≈ R$1.157,63**
+## Exercício 6: Planejamento Financeiro
+Você deseja comprar um carro que custa R$ 50.000. Se economizar R$ 800 por mês, em quanto tempo conseguirá atingir o valor total, considerando que o dinheiro será guardado sem rendimento?  
 
 ---
 
-## Aplicações do Juros Compostos
-
-- Comum em:
-  - Investimentos de longo prazo.
-  - Financiamentos.
-  - Aposentadorias.
+## Exercício 7: Sistema de Amortização SAC
+Um financiamento de R$ 12.000 é pago em 6 parcelas mensais pelo sistema de amortização constante (SAC).  
+**Pergunta:** Qual o valor da amortização em cada parcela?  
 
 ---
 
-## Diferença: Juros Simples vs Compostos
-
-- **Juros Simples:** Crescimento linear.
-- **Juros Compostos:** Crescimento exponencial.
-
----
-
-## Valor Presente (VP)
-
-- Quantia atual equivalente a um montante futuro descontado por uma taxa de juros.
+## Exercício 8: Retorno sobre o Investimento (ROI)
+Um investidor aplicou R$ 10.000 em um negócio e, após 2 anos, obteve um retorno de R$ 12.500.  
+**Pergunta:** Qual foi o ROI?  
 
 ---
 
-## Fórmula do Valor Presente
-
-- **VP = VF ÷ (1 + i)^t**
-
----
-
-## Exemplo de Valor Presente
-
-- Quanto vale hoje R$1.000 a receber daqui a 2 anos com taxa de 5% ao ano?
-  - **VP = 1000 ÷ (1 + 0,05)^2 ≈ R$907,03**
+## Exercício 9: Inflação e Poder de Compra
+Se a inflação acumulada em 2 anos foi de 10%, qual será o poder de compra de R$ 1.000 após esse período?  
 
 ---
 
-## Valor Futuro (VF)
-
-- Montante acumulado após um período, considerando capital inicial e juros.
-
----
-
-## Fórmula do Valor Futuro
-
-- **VF = VP × (1 + i)^t**
-
----
-
-## Exemplo de Valor Futuro
-
-- Quanto será R$1.000 investido hoje por 3 anos com taxa de 5% ao ano?
-  - **VF = 1000 × (1 + 0,05)^3 ≈ R$1.157,63**
-
----
-
-## Amortização - Conceito
-
-- Processo de pagamento de uma dívida em parcelas.
-
----
-
-## Sistemas de Amortização
-
-- **Sistema de Amortização Constante (SAC):** Parcelas decrescentes.
-- **Tabela Price:** Parcelas fixas.
-
----
-
-## Exemplo de Amortização SAC
-
-- Financiamento de R$10.000 por 5 anos:
-  - Parcela inicial mais alta, reduzindo ao longo do tempo.
-
----
-
-## Exemplo de Amortização Price
-
-- Financiamento de R$10.000 por 5 anos:
-  - Parcelas fixas ao longo do período.
-
----
-
-## Planejamento Financeiro Pessoal
-
-- Cálculo de economias e investimentos.
-- Organização de receitas e despesas.
-
----
-
-## Financiamentos - Conceito
-
-- Contrato para obtenção de bens ou serviços com pagamento a prazo.
-
----
-
-## Taxa Efetiva vs Taxa Nominal
-
-- **Taxa Efetiva:** Aplica-se a um período real.
-- **Taxa Nominal:** Considera períodos menores.
-
----
-
-## Inflação e Poder de Compra
-
-- Como a inflação afeta o valor do dinheiro ao longo do tempo.
-
----
-
-## Cálculo de Rentabilidade de Investimentos
-
-- Fórmula:
-  - **R = [(VF - VP) ÷ VP] × 100%**
-
----
-
-## Importância de Comparar Opções
-
-- Avaliar diferentes financiamentos e investimentos antes de decidir.
-
----
-
-## Risco e Retorno
-
-- Relação entre o potencial de ganho e os riscos envolvidos.
-
----
-
-## Cálculo de Parcelas em Financiamentos
-
-- Usando as fórmulas SAC ou Price para determinar valores.
-
----
-
-## Cenários Práticos
-
-- Planejamento de compra de um imóvel.
-- Avaliação de um financiamento de veículo.
-
----
-
-## Dicas para Educação Financeira
-
-- Controle de orçamento.
-- Economia de longo prazo.
-- Evitar dívidas excessivas.
-
----
-
-## Ferramentas Tecnológicas
-
-- Calculadoras financeiras.
-- Softwares de controle financeiro.
-
----
-
-## Benefícios da Matemática Financeira
-
-- Melhor tomada de decisões financeiras.
-- Controle sobre finanças pessoais e empresariais.
-
----
-
-## Conclusão
-
-- A Matemática Financeira é uma ferramenta poderosa para organizar e otimizar recursos financeiros, promovendo estabilidade e planejamento de longo prazo.
+## Exercício 10: Comparando Taxas Nominal e Efetiva
+Um banco oferece uma taxa nominal de 12% ao ano, com capitalização mensal. Qual é a taxa efetiva anual?  
